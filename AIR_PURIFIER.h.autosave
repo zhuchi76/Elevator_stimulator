@@ -1,0 +1,17 @@
+#ifndef AIR_PURIFIER_H
+#define AIR_PURIFIER_H
+#include "BUTTON.h"
+
+class Air_Purifier
+{
+private:
+    Button pur;
+    double PM;
+public:
+    Air_Purifier();
+    void clean();
+    void toxic();
+    double show_PM();
+};
+
+#endif // AIR_PURIFIER_H

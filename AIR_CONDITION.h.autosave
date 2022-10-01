@@ -1,0 +1,16 @@
+#ifndef AIR_CONDITION_H
+#define AIR_CONDITION_H
+#include "BUTTON.h"
+
+class Air_Condition: Buttom
+{
+private:
+    Button incr, decr;   //increase and decrease the temperature
+    int temp;
+public:
+    Air_Condition();
+    void adj_temp();     //adjust the temp
+    int show_temp();
+};
+
+#endif // AIR_CONDITION_H

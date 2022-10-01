@@ -1,0 +1,6 @@
+#include "AIR_CONDITION_BUTTON.h"
+
+Air_Condition::Air_Condition()
+{
+
+}

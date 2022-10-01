@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>door.png</file>
+        <file>white.png</file>
+        <file>background.png</file>
+        <file>toolman.png</file>
+        <file>noperson.png</file>
+        <file>toolman_allerge.png</file>
+        <file>toolman_allerge_temp.png</file>
+        <file>toolman_temp.png</file>
+    </qresource>
+</RCC>

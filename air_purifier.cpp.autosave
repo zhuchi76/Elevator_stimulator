@@ -1,0 +1,6 @@
+#include "AIR_PURIFIER_BUTTON.h"
+
+Air_Purifier::Air_Purifier()
+{
+
+}
